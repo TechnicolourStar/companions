@@ -23,15 +23,23 @@ By sheer coincidence, as I was double checking the proper names of the museums i
 ### 27 Filigree Street
 I took the liberty of putting a modern floor plan together. It feels huge for central London standards, but that's the joy of fiction. 
 
+Ground floor
+![Ground floor](./assets/27-fs-ground-floor.jpg)
+
+First floor
+![First floor](./assets/27-fs-first-floor.jpg)
+
+Second floor
+![Second floor](./assets/27-fs-second-floor.jpg)
 
 ### Heligan
 In real life the Heligan estate *was* owned by the Tremayne family, the house has been subdivided into flats, and the gardens are accessible to the public. I had the opportinity to visit in the Summer of 2024 and used these two places in the story, and their approximate locations:
 
 The view from where one can see the sea [map](https://www.openstreetmap.org/?mlat=50.28237&mlon=-4.81036#map=16/50.28237/-4.81036)
-
+![Heligan view](./assets/heligan-view.jpg)
 
 The semi-circular bench [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.28280&mlon=-4.80881#map=16/50.28280/-4.80881)
-
+![Heligan bench](./assets/heligan-bench.jpg)
 
 
 ## Timeline
