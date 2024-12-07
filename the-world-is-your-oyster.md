@@ -1,4 +1,5 @@
-
+## Why am I here?
+You probably clicked through from ["The world is your oyster" fic on AO3](https://archiveofourown.org/works/61148788?view_full_work=true)
 
 ## Notes on Books
 
